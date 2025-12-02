@@ -11,8 +11,6 @@ tables = [
             end_time TIME NOT NULL,
             app TEXT NOT NULL,
             window_title TEXT NOT NULL,
-            url TEXT,
-            category TEXT
             );"""
 ]
 
