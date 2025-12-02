@@ -17,7 +17,6 @@ tables = [
 try:
     with sqlite3.connect(database) as conn:
         cursor = conn.cursor()
-        
         for table in tables:
             cursor.execute(table)
         conn.commit()
