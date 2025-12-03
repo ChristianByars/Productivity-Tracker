@@ -5,12 +5,12 @@ database = "activity.db"
 
 #initial table for primary functionality
 tables = [
-    """CREATE TABLE IF NOT EXISTS activity_sessions (
-            session_id INTEGER PRIMARY KEY,
-            start_time TIME NOT NULL,
-            end_time TIME NOT NULL,
-            app TEXT NOT NULL,
-            window_title TEXT NOT NULL,
+    """CREATE TABLE IF NOT EXISTS activity_sessions(
+            event_id INTEGER PRIMARY KEY AUTOINCREMENT,
+            elapsed_time INTEGER NOT NULL,
+            app TEXT,
+            browser_tab TEXT,
+            date TEXT NOT NULL
             );"""
 ]
 
