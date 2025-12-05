@@ -1,6 +1,5 @@
 import sqlite3
 
-
 database = "activity.db"
 
 #initial table for primary functionality
