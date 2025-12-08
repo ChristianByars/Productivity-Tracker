@@ -1,0 +1,5 @@
+streamlit==1.50.0
+psutil==7.0.0
+pywin32>=306
+pandas==2.3.3
+
