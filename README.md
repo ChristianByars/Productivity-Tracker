@@ -22,11 +22,11 @@ This project consists of two main components:
 
 ## To run tracker
 
-'''bash
+```bash
 python __main__.py
-'''
+```
 
 ## To get visualizations
-'''bash
+```bash
 streamlit run streamlit_app.py
-'''
+```
