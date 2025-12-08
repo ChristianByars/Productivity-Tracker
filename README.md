@@ -9,7 +9,7 @@ This project consists of two main components:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Tracks active applications and /or window text changes  
 - Records session duration 
