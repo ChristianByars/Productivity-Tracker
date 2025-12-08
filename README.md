@@ -30,3 +30,4 @@ python __main__.py
 ```bash
 streamlit run streamlit_app.py
 ```
+Just make sure you are in the right directory. Enjoy!
