@@ -11,14 +11,15 @@ This project consists of two main components:
 
 ## Features
 
-- Tracks active applications and /or window text changes  
+- Tracks active applications and/or window text changes  
 - Records session duration 
 - Logs sessions into SQLite for long-term analysis  
 - Streamlit dashboard provides:
   - Daily summaries  
   - Date-range summaries  
-  - Top-N activity visualization  
-- Clean filtering to eliminate flicker, system noise, blank titles, etc.  
+  - Top-N activity visualization
+  - Raw Data  
+- Filtering to eliminate flicker, system noise, blank titles.
 
 ## To run tracker
 
@@ -30,4 +31,4 @@ python __main__.py
 ```bash
 streamlit run streamlit_app.py
 ```
-Just make sure you are in the right directory. Enjoy!
+Just make sure you are in the right directory when running the scripts. Enjoy!
