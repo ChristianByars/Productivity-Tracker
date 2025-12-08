@@ -1,4 +1,4 @@
-# Productivity Activity Tracker
+# Productivity Activity Tracker (Windows Only)
 
 A activity tracking software that monitors your active window or browser tab and visualizes your activity data using a Streamlit dashboard.
 
