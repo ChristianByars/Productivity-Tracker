@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Windows Productivity Activity Tracker
-=======
 
->>>>>>> 375bcb08b419a4024b000621d7387ba9edadd465
+# Windows Productivity Activity Tracker
 
 A activity tracking software that monitors your active window or browser tab and visualizes your activity data using a Streamlit dashboard.
 
