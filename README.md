@@ -29,7 +29,7 @@ python tracker.py
 
 ## To get visualizations
 ```bash
-streamlit run tracker.py
+streamlit run streamlit_app.py
 ```
 
 Just make sure you are in the right directory. Enjoy!
