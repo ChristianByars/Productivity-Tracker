@@ -24,7 +24,7 @@ This project consists of two main components:
 ## To run tracker
 
 ```bash
-python __main__.py
+python tracker.py
 ```
 
 ## To get visualizations
