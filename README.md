@@ -31,9 +31,8 @@ python tracker.py
 ```bash
 streamlit run tracker.py
 ```
-<<<<<<< HEAD
 
 Just make sure you are in the right directory. Enjoy!
 =======
 Just make sure you are in the right directory when running the scripts. Enjoy!
->>>>>>> 375bcb08b419a4024b000621d7387ba9edadd465
+
