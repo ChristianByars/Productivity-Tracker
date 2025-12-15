@@ -1,4 +1,4 @@
-# Productivity Activity Tracker
+# Windows Productivity Activity Tracker
 
 A activity tracking software that monitors your active window or browser tab and visualizes your activity data using a Streamlit dashboard.
 
@@ -9,7 +9,7 @@ This project consists of two main components:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Tracks active applications and /or window text changes  
 - Records session duration 
@@ -28,5 +28,7 @@ python __main__.py
 
 ## To get visualizations
 ```bash
-streamlit run streamlit_app.py
+streamlit run tracker.py
 ```
+
+Just make sure you are in the right directory. Enjoy!

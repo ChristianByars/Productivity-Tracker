@@ -10,6 +10,8 @@ def run_tracker():
 
     window_start_time = time.time()
     todays_date = date.today()
+    
+    print("Tracker Running")
 
     while True:
         window_text, process_name = get_window()
