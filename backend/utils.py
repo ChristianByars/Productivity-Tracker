@@ -45,9 +45,8 @@ def extract_window_text(process_name, window_title):
     process = process_name.lower()
     #title = window_title.lower()
     
-    # ---------------------------------------------------------
+   
     # 1. PROCESS-NAME PATTERNS
-    # ---------------------------------------------------------
     for category, patterns in PROCESS_PATTERNS.items():
         #check for patterns and then decide if you use process or window text
         if any(p in process for p in patterns):

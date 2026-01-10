@@ -32,7 +32,6 @@ python tracker.py
 streamlit run streamlit_app.py
 ```
 
-Just make sure you are in the right directory. Enjoy!
-=======
+
 Just make sure you are in the right directory when running the scripts. Enjoy!
 
