@@ -5,8 +5,8 @@ A activity tracking software that monitors your active window or browser tab and
 
 This project consists of two main components:
 
-1. **The Tracker** — continuously logs your foreground activity.
-2. **The Dashboard** — visualizes logged data through Streamlit.
+1. **The Tracker** continuously logs your foreground activity.
+2. **The Dashboard** visualizes logged data through Streamlit.
 
 
 ## Features
